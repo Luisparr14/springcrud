@@ -1,0 +1,45 @@
+table {
+  border-collapse: collapse;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+th {
+  background-color: #4caf50;
+  color: white;
+}
+tr {
+  border-bottom: 1px solid #ddd;
+}
+td,
+th {
+  padding: 5px;
+}
+
+.btn {
+  background-color: #4caf50;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  width: 90%;
+}
+
+.btn-info {
+  background-color: #1971d0;
+}
+
+.btn-danger {
+  background-color: #f44336;
+}
+
+@media screen and (min-width: 600px) {
+  body {
+    background-color: #fafafa;
+  }
+  .btn {
+    width: 40%;
+  }
+}
