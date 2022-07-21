@@ -1,0 +1,8 @@
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/repositories/Repositorio.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/models/Usuario.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/services/IUsuarioService.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/controller/RestControllerApi.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/services/UsuarioService.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/TallerSpringbootApplication.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/controller/UsuarioController.java
+/home/lucho/Proyectos/taller-springboot/src/main/java/com/desarrolloweb/tallerspringboot/controller/HomeController.java
